@@ -9,8 +9,8 @@ pipeline {
                     git checkout -b branchFromGit
                     touch test
                     git add .
-                    git config --global user.email "keyveevee2005@gmail.com"
-                    git config --global user.name "Vishnuvardhan"
+                    git config --global user.email "mettildamoses@gmail.com"
+                    git config --global user.name "mettilda"
                     git commit -am "New file added"
                 """
             }
