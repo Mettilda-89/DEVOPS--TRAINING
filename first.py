@@ -1,3 +1,2 @@
-a=10
-b=20
-print("bala", a+10+b-5)
+print("bala")
+print("i am mettilda")
