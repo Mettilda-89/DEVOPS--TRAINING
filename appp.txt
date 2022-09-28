@@ -1,6 +1,10 @@
 one
+<<<<<<< HEAD
 two
 three
 fourth
 
 
+=======
+two
+>>>>>>> parent of 916109c... thrid
