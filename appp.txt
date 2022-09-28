@@ -1,5 +1,6 @@
 one
 <<<<<<< HEAD
+<<<<<<< HEAD
 two
 three
 <<<<<<< HEAD
@@ -11,3 +12,5 @@ two
 >>>>>>> parent of 916109c... thrid
 =======
 >>>>>>> parent of 9a5b3b6... fourth
+=======
+>>>>>>> parent of 21a2702... Revert "Revert "second""
