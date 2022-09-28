@@ -2,9 +2,12 @@ one
 <<<<<<< HEAD
 two
 three
+<<<<<<< HEAD
 fourth
 
 
 =======
 two
 >>>>>>> parent of 916109c... thrid
+=======
+>>>>>>> parent of 9a5b3b6... fourth
